@@ -1,16 +1,10 @@
 👋 Hi! I'm Oleg Pustovalov. <br>
-🌎 I'm a Python developer.
-🤓 I love work with new technologies. I often use in development.!!
+🌎 I'm a Python developer. <br>
+🤓 I love work with new technologies. I often use in development. <br>
 
 - Technology stack
 
-<img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6E6BJB61SuBYT8AaKzulSUaZpJcrMcUWuUnbthEMLxotmQRXcjNLA_dVsz19FJC7R4OI&usqp=CAU"/>
-<img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvV89itTjKIoztoMSACBd2Ky1vPErwZCN0oyTArdxKjfY_nXW2PboiViP4eCuoW8swuzI&usqp=CAU"/>
-<img width="50" src="https://lh3.googleusercontent.com/-XvJzhz3pfH0/XjYG_xWkESI/AAAAAAAAJ9c/AYlgAtRknEU2W5fMcFhQoL6rmO8EBtIDQCK8BGAsYHg/s0/2020-02-01.png"/>
-<img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZGirVfkduqiAfJAnCHBw78A3HYIv7pdMmIw&usqp=CAU"/>
-<img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdHmHeJ79ENv7s_je6wOfVfGK3DsQk4ef8W41_c5hwZ8Ou3vo9Zz_wmFGvYP9XNd1MpA0&usqp=CAU"/>
-<img width="50" src="https://williamlifaith.github.io/Williamliresume/images/celery.png"/>
-<img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkoSiXALVlUCkVbUS3VIJPrHufnHETi73wEKiVhuEgdoCPlDaccJazHO8E1PDm7otxQmE&usqp=CAU"/>
+<img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6E6BJB61SuBYT8AaKzulSUaZpJcrMcUWuUnbthEMLxotmQRXcjNLA_dVsz19FJC7R4OI&usqp=CAU"/> <img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvV89itTjKIoztoMSACBd2Ky1vPErwZCN0oyTArdxKjfY_nXW2PboiViP4eCuoW8swuzI&usqp=CAU"/> <img width="48.5" src="https://lh3.googleusercontent.com/-XvJzhz3pfH0/XjYG_xWkESI/AAAAAAAAJ9c/AYlgAtRknEU2W5fMcFhQoL6rmO8EBtIDQCK8BGAsYHg/s0/2020-02-01.png"/> <img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZGirVfkduqiAfJAnCHBw78A3HYIv7pdMmIw&usqp=CAU"/> <img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdHmHeJ79ENv7s_je6wOfVfGK3DsQk4ef8W41_c5hwZ8Ou3vo9Zz_wmFGvYP9XNd1MpA0&usqp=CAU"/> <img width="50" src="https://williamlifaith.github.io/Williamliresume/images/celery.png"/> <img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkoSiXALVlUCkVbUS3VIJPrHufnHETi73wEKiVhuEgdoCPlDaccJazHO8E1PDm7otxQmE&usqp=CAU"/> 
 
 - Front-end
 
