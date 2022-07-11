@@ -9,8 +9,7 @@
 <img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/> <img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/> <img width="40" height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmdp4WJDVZKqIb8_DX4S0P6x5fqKJdaDgsBS4HgGWUUGzzQxZ_h6vrhw9jWPLfXrl3R7I&usqp=CAU"/> <img width="40" height="40" src="https://lowendbox.com/wp-content/uploads/2019/06/redis-icon-logo.png"/>
 - Version control <br>
 <img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/> <img width="40" height="40" src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg"/>
-- OS <br>
-<img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"/> <img width="40" height="40" src="https://icon-library.com/images/window-10-icon/window-10-icon-15.jpg"/>
+
 
 
 
