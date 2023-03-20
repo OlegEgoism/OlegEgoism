@@ -7,5 +7,4 @@
 - Database <br>
 <img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/> <img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/> <img width="40" height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmdp4WJDVZKqIb8_DX4S0P6x5fqKJdaDgsBS4HgGWUUGzzQxZ_h6vrhw9jWPLfXrl3R7I&usqp=CAU"/>
 - Version control <br>
-<img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/> 
-<img width="40" height="40" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png"/>
+<img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/> <img width="40" height="40" src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU"/>
