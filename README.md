@@ -1,7 +1,7 @@
 👋 Hi! I'm Oleg Pustovalov. I love work with new technologies.
 If you're in the know, you'll understand.
 
-My email 👉 - <a href="mailto:olegpustovalov220@gmail.com">📧</a>
+My email 👉 - olegpustovalov220@gmail.com"
 
 <h2>MY STACK</h2>
 <table>
@@ -30,6 +30,14 @@ My email 👉 - <a href="mailto:olegpustovalov220@gmail.com">📧</a>
       <img alt="vue" height=64px src="https://www.svgrepo.com/show/21671/css.svg">
       <br>CSS
     </td>
+    <td align="center">
+      <img alt="vue" height=64px src="https://www.svgrepo.com/show/330083/bootstrap.svg">
+      <br>Bootstrap
+    </td>
+    <td align="center">
+      <img alt="grafana" height=64px src="https://cdn.prod.website-files.com/62038ffc9cd2db4558e3c7b7/623b43bcfcec4ae2e50ca6e3_rest.svg">
+      <br>REST API
+    </td>
   </tr>
   <tr>
     <td align="center">
@@ -56,6 +64,14 @@ My email 👉 - <a href="mailto:olegpustovalov220@gmail.com">📧</a>
       <img alt="webstorm" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg">
       <br>WebStorm
     </td>
+    <td align="center">
+      <img alt="grafana" height=64px src="https://cdn.worldvectorlogo.com/logos/grafana.svg">
+      <br>Grafana
+    </td>
+    <td align="center">
+      <img alt="grafana" height=64px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/480px-Git_icon.svg.png">
+      <br>Git
+    </td>
   </tr>
   <tr>
     <td align="center">
@@ -67,23 +83,8 @@ My email 👉 - <a href="mailto:olegpustovalov220@gmail.com">📧</a>
       <br>Postman
     </td>
     <td align="center">
-      <img alt="grafana" height=64px src="https://cdn.worldvectorlogo.com/logos/grafana.svg">
-      <br>Grafana
-    </td>
-    <td align="center">
-      <img alt="grafana" height=64px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/480px-Git_icon.svg.png">
-      <br>Git
-    </td>
-    <td align="center">
       <img alt="grafana" height=64px src="https://www.svgrepo.com/show/303576/rabbitmq-logo.svg">
       <br>RabbitMQ
-    </td>
-    <td align="center">
-      <img alt="grafana" height=64px src="https://cdn.prod.website-files.com/62038ffc9cd2db4558e3c7b7/623b43bcfcec4ae2e50ca6e3_rest.svg">
-      <br>REST API
-    </td>
-  </tr>
-  <tr>
     <td align="center">
       <img alt="aws" height=64px src="https://cdn.worldvectorlogo.com/logos/aws-logo.svg">
       <br>AWS
@@ -95,10 +96,6 @@ My email 👉 - <a href="mailto:olegpustovalov220@gmail.com">📧</a>
     <td align="center">
       <img alt="mysql" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
       <br>MySQL
-    </td>
-    <td align="center">
-      <img alt="mysql" height=64px src="https://www.svgrepo.com/show/448245/oracle.svg">
-      <br>Oracle
     </td>
     <td align="center">
       <img alt="mysql" height=64px src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg">
