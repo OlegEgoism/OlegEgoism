@@ -1,7 +1,7 @@
 👋 Hi! I'm Oleg Pustovalov. I love work with new technologies.
 If you're in the know, you'll understand.
 
-My email 👉 - olegpustovalov220@gmail.com"
+My email 👉 - olegpustovalov220@gmail.com
 
 <h2>MY STACK</h2>
 <table>
