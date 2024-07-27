@@ -109,3 +109,5 @@ My telegram 👉 - @OlegEgoism
     </td>
   </tr>
 </table>
+
+![Rotation Animation](https://j.gifs.com/m2PdjJ.gif)
