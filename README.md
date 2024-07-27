@@ -1,13 +1,112 @@
-#### 👋 Hi! I'm Oleg Pustovalov. I love work with new technologies.
+👋 Hi! I'm Oleg Pustovalov. I love work with new technologies.
+If you're in the know, you'll understand.
 
-- Back-end <br>
-<img width="40" height="40" src="https://c1.klipartz.com/pngpicture/843/922/sticker-png-python-logo-programming-language-computer-programming-highlevel-programming-language-generalpurpose-programming-language-computer-software-objectoriented-programming-django-thumbnail.png"/> <img width="40" height="40" src="https://w7.pngwing.com/pngs/609/443/png-transparent-django-original-logo-icon.png"/> <img width="40" height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdHmHeJ79ENv7s_je6wOfVfGK3DsQk4ef8W41_c5hwZ8Ou3vo9Zz_wmFGvYP9XNd1MpA0&usqp=CAU"/> <img width="40" height="40" src="https://pbs.twimg.com/profile_images/3534818042/cb2fc8174648f5862d73efc33109e8ea_400x400.png"/> <img width="40" height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkoSiXALVlUCkVbUS3VIJPrHufnHETi73wEKiVhuEgdoCPlDaccJazHO8E1PDm7otxQmE&usqp=CAU"/>
+My email 👉 - <a href="mailto:olegpustovalov220@gmail.com">📧</a>
 
-- Front-end <br>
-<img width="40" height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh7HwVz9h18DrB8OeLJ1oUyWw6JPIBqfxDUEiFi_804PEIQxzvfuW5p0eQ3inRMifes4s&usqp=CAU"/> <img width="40" height="40" src="https://camo.githubusercontent.com/b9714180de7437a8f4da9f998b998101ce0d73cef3df55b0c0400cecc219e348/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6373732d332e737667"/> <img width="40" height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKFc-j4yKb-Ask4w84T9OhZRJvBe1LiSiMe-0m22Gx0In9Kfru6NrkQ9t2Ya-_IaI_5qg&usqp=CAU"/>
-- Database <br>
-<img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/> <img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/> <img width="40" height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmdp4WJDVZKqIb8_DX4S0P6x5fqKJdaDgsBS4HgGWUUGzzQxZ_h6vrhw9jWPLfXrl3R7I&usqp=CAU"/>
-- Version control <br>
-<img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/> <img width="40" height="40" src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU"/>
-
-
+<h2>MY STACK</h2>
+<table>
+  <tr>
+    <td align="center">
+      <img alt="python" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+      <br>Python
+    </td>
+    <td align="center">
+      <img alt="django" height=64px src="https://cdn.worldvectorlogo.com/logos/django.svg">
+      <br>Django
+    </td>
+    <td align="center">
+      <img alt="django" height=64px src="https://cdn.worldvectorlogo.com/logos/fastapi.svg">
+      <br>FastAPI
+    </td>
+    <td align="center">
+      <img alt="javascript" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+      <br>Javascript
+    </td>
+    <td align="center">
+      <img alt="vue" height=64px src="https://miro.medium.com/v2/1*K0a7xINk0RM5gfXGSN68cw.png">
+      <br>React
+    </td>
+    <td align="center">
+      <img alt="vue" height=64px src="https://www.svgrepo.com/show/21671/css.svg">
+      <br>CSS
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img alt="centos" height=64px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/768px-Windows_logo_-_2012.svg.png">
+      <br>Windows
+    </td>
+    <td align="center">
+      <img alt="ubuntu" height=64px src="https://user-images.githubusercontent.com/39632170/109294252-25681c80-7857-11eb-9ec4-4fbdad9fadfc.png">
+      <br>Ubuntu
+    </td>
+    <td align="center">
+      <img alt="bash" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+      <br>BASH
+    </td>
+    <td align="center">
+      <img alt="bash" height=64px src="https://img.icons8.com/color/200/mac-logo.png">
+      <br>MacOS
+    </td>
+    <td align="center">
+      <img alt="pycharm" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
+      <br>PyCharm
+    </td>
+    <td align="center">
+      <img alt="webstorm" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg">
+      <br>WebStorm
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img alt="docker" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+      <br>Docker
+    </td>
+    <td align="center">
+      <img alt="docker" height=64px src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Postman.svg">
+      <br>Postman
+    </td>
+    <td align="center">
+      <img alt="grafana" height=64px src="https://cdn.worldvectorlogo.com/logos/grafana.svg">
+      <br>Grafana
+    </td>
+    <td align="center">
+      <img alt="grafana" height=64px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/480px-Git_icon.svg.png">
+      <br>Git
+    </td>
+    <td align="center">
+      <img alt="grafana" height=64px src="https://www.svgrepo.com/show/303576/rabbitmq-logo.svg">
+      <br>RabbitMQ
+    </td>
+    <td align="center">
+      <img alt="grafana" height=64px src="https://cdn.prod.website-files.com/62038ffc9cd2db4558e3c7b7/623b43bcfcec4ae2e50ca6e3_rest.svg">
+      <br>REST API
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img alt="aws" height=64px src="https://cdn.worldvectorlogo.com/logos/aws-logo.svg">
+      <br>AWS
+    </td>
+    <td align="center">
+      <img alt="postgresql" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+      <br>PostgreSQL
+    </td>
+    <td align="center">
+      <img alt="mysql" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+      <br>MySQL
+    </td>
+    <td align="center">
+      <img alt="mysql" height=64px src="https://www.svgrepo.com/show/448245/oracle.svg">
+      <br>Oracle
+    </td>
+    <td align="center">
+      <img alt="mysql" height=64px src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg">
+      <br>MongoDB
+    </td>
+    <td align="center">
+      <img alt="mysql" height=64px src="https://www.svgrepo.com/show/342166/redis.svg">
+      <br>Redis
+    </td>
+  </tr>
+</table>
