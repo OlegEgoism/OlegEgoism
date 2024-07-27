@@ -1,7 +1,8 @@
 <h3> 
 Hi! I'm Oleg Pustovalov. I love work with new technologies. <br>
 If you're in the know, you'll understand. <br>
-My email 👉 - olegpustovalov220@gmail.com
+My email 👉 - olegpustovalov220@gmail.com <br>
+My telegram 👉 - @OlegEgoism
 </h3>
 
 <h2>MY STACK</h2>
