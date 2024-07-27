@@ -107,6 +107,3 @@ My email 👉 - olegpustovalov220@gmail.com
     </td>
   </tr>
 </table>
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=sajib1066&layout=compact)
-
