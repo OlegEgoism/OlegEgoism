@@ -118,6 +118,6 @@ My telegram 👉 - @OlegEgoism
     </td>
     <td align="center">
       <img alt="grafana" height=72px src="https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-openapi-spec.png">
-      <br>Hive
+      <br>Swagger
     </td>
 </table>
