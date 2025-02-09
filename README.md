@@ -108,8 +108,12 @@ My telegram 👉 - @OlegEgoism
       <br>Redis
     </td>
   </tr>
-      <td align="center">
+    <td align="center">
       <img alt="grafana" height=72px src="https://cdn.prod.website-files.com/62038ffc9cd2db4558e3c7b7/623b43bcfcec4ae2e50ca6e3_rest.svg">
       <br>REST API
+    </td>
+    <td align="center">
+      <img alt="grafana" height=72px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Apache_Hive_logo.svg/800px-Apache_Hive_logo.svg.png">
+      <br>Hive
     </td>
 </table>
