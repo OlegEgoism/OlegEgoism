@@ -17,7 +17,7 @@ My telegram 👉 - @OlegEgoism
       <br>Django
     </td>
         <td align="center">
-      <img alt="django" height=72px src="https://cdn.worldvectorlogo.com/logos/django.svg">
+      <img alt="django" height=72px src="https://erp.mgt.ncu.edu.tw/wp-content/uploads/2024/08/Streamlit-Logo.png">
       <br>Streamlit
     </td>
     <td align="center">
