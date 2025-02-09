@@ -40,10 +40,6 @@ My telegram 👉 - @OlegEgoism
       <img alt="vue" height=72px src="https://miro.medium.com/v2/1*K0a7xINk0RM5gfXGSN68cw.png">
       <br>React
     </td>
-    <td align="center">
-      <img alt="grafana" height=72px src="https://cdn.prod.website-files.com/62038ffc9cd2db4558e3c7b7/623b43bcfcec4ae2e50ca6e3_rest.svg">
-      <br>REST API
-    </td>
   </tr>
   <tr>
     <td align="center">
@@ -116,4 +112,8 @@ My telegram 👉 - @OlegEgoism
       <br>Redis
     </td>
   </tr>
+      <td align="center">
+      <img alt="grafana" height=72px src="https://cdn.prod.website-files.com/62038ffc9cd2db4558e3c7b7/623b43bcfcec4ae2e50ca6e3_rest.svg">
+      <br>REST API
+    </td>
 </table>
