@@ -51,10 +51,6 @@ My telegram 👉 - @OlegEgoism
       <br>Ubuntu
     </td>
     <td align="center">
-      <img alt="bash" height=72px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-      <br>BASH
-    </td>
-    <td align="center">
       <img alt="bash" height=72px src="https://img.icons8.com/color/200/mac-logo.png">
       <br>MacOS
     </td>
