@@ -13,6 +13,18 @@ My telegram 👉 - @OlegEgoism
       <br>Python
     </td>
     <td align="center">
+      <img alt="javascript" height=72px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+      <br>Javascript
+    </td>
+    <td align="center">
+      <img alt="vue" height=72px src="https://www.svgrepo.com/show/21671/css.svg">
+      <br>CSS
+    </td>
+    <td align="center">
+      <img alt="vue" height=72px src="https://www.svgrepo.com/show/330083/bootstrap.svg">
+      <br>Bootstrap
+    </td>
+    <td align="center">
       <img alt="django" height=72px src="https://cdn.worldvectorlogo.com/logos/django.svg">
       <br>Django
     </td>
@@ -25,20 +37,8 @@ My telegram 👉 - @OlegEgoism
       <br>FastAPI
     </td>
     <td align="center">
-      <img alt="javascript" height=72px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-      <br>Javascript
-    </td>
-    <td align="center">
       <img alt="vue" height=72px src="https://miro.medium.com/v2/1*K0a7xINk0RM5gfXGSN68cw.png">
       <br>React
-    </td>
-    <td align="center">
-      <img alt="vue" height=72px src="https://www.svgrepo.com/show/21671/css.svg">
-      <br>CSS
-    </td>
-    <td align="center">
-      <img alt="vue" height=72px src="https://www.svgrepo.com/show/330083/bootstrap.svg">
-      <br>Bootstrap
     </td>
     <td align="center">
       <img alt="grafana" height=72px src="https://cdn.prod.website-files.com/62038ffc9cd2db4558e3c7b7/623b43bcfcec4ae2e50ca6e3_rest.svg">
