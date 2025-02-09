@@ -74,6 +74,10 @@ My telegram 👉 - @OlegEgoism
       <img alt="grafana" height=72px src="https://cdn.worldvectorlogo.com/logos/grafana.svg">
       <br>Grafana
     </td>
+        <td align="center">
+      <img alt="grafana" height=72px src="https://app.yunohost.org/default/v3/logos/71a23aee2309aa0ffa9c960dc818b03d933058d4c93f8e6dd41ea238ee843938.png">
+      <br>SyperSet
+    </td>
     <td align="center">
       <img alt="grafana" height=72px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/480px-Git_icon.svg.png">
       <br>Git
