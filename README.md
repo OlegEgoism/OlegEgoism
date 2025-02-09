@@ -16,6 +16,10 @@ My telegram 👉 - @OlegEgoism
       <img alt="django" height=72px src="https://cdn.worldvectorlogo.com/logos/django.svg">
       <br>Django
     </td>
+        <td align="center">
+      <img alt="django" height=72px src="https://cdn.worldvectorlogo.com/logos/django.svg">
+      <br>Streamlit
+    </td>
     <td align="center">
       <img alt="django" height=72px src="https://cdn.worldvectorlogo.com/logos/fastapi.svg">
       <br>FastAPI
