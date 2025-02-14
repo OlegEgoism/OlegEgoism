@@ -120,8 +120,12 @@ My telegram 👉 - @OlegEgoism
       <img alt="grafana" height=72px src="https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-openapi-spec.png">
       <br>Swagger
     </td>
-      <td align="center">
+    <td align="center">
       <img alt="grafana" height=72px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/480px-Git_icon.svg.png">
       <br>Git
+    </td>
+    <td align="center">
+      <img alt="grafana" height=72px src="https://avatars.mds.yandex.net/get-sprav-products/1521147/2a000001917fe180a8de459ad2d2b9d2a159/M_height">
+      <br>icCube
     </td>
 </table>
