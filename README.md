@@ -71,8 +71,8 @@ My telegram 👉 - @OlegEgoism
       <br>SyperSet
     </td>
     <td align="center">
-      <img alt="grafana" height=72px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/480px-Git_icon.svg.png">
-      <br>Git
+      <img alt="grafana" height=72px src="https://avatars.githubusercontent.com/u/52467369?s=200&v=4">
+      <br>Cube
     </td>
   </tr>
   <tr>
@@ -119,5 +119,9 @@ My telegram 👉 - @OlegEgoism
     <td align="center">
       <img alt="grafana" height=72px src="https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-openapi-spec.png">
       <br>Swagger
+    </td>
+      <td align="center">
+      <img alt="grafana" height=72px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/480px-Git_icon.svg.png">
+      <br>Git
     </td>
 </table>
