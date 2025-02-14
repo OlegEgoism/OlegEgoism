@@ -128,4 +128,8 @@ My telegram 👉 - @OlegEgoism
       <img alt="grafana" height=72px src="https://avatars.mds.yandex.net/get-sprav-products/1521147/2a000001917fe180a8de459ad2d2b9d2a159/M_height">
       <br>icCube
     </td>
+    <td align="center">
+      <img alt="grafana" height=72px src="https://pngsource.in/assets/thumbnails/Apache-NiFi-Logo-Pngsource-0TYYYHLK.png">
+      <br>NiFi
+    </td>
 </table>
