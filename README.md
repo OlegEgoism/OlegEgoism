@@ -9,41 +9,41 @@ My telegram 👉 - @OlegEgoism
 <table>
   <tr>
     <td align="center">
-      <img alt="python" height=72px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+      <img alt="Python" height=72px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
       <br>Python
     </td>
     <td align="center">
-      <img alt="javascript" height=72px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+      <img alt="Javascript" height=72px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
       <br>Javascript
     </td>
     <td align="center">
-      <img alt="vue" height=72px src="https://www.svgrepo.com/show/21671/css.svg">
+      <img alt="CSS" height=72px src="https://www.svgrepo.com/show/21671/css.svg">
       <br>CSS
     </td>
     <td align="center">
-      <img alt="vue" height=72px src="https://www.svgrepo.com/show/330083/bootstrap.svg">
+      <img alt="Bootstrap" height=72px src="https://www.svgrepo.com/show/330083/bootstrap.svg">
       <br>Bootstrap
     </td>
     <td align="center">
-      <img alt="django" height=72px src="https://cdn.worldvectorlogo.com/logos/django.svg">
+      <img alt="Django" height=72px src="https://cdn.worldvectorlogo.com/logos/django.svg">
       <br>Django
     </td>
         <td align="center">
-      <img alt="django" height=72px src="https://archive.org/download/github.com-streamlit-streamlit_-_2020-06-10_07-36-23/cover.jpg">
+      <img alt="Streamlit" height=72px src="https://archive.org/download/github.com-streamlit-streamlit_-_2020-06-10_07-36-23/cover.jpg">
       <br>Streamlit
     </td>
     <td align="center">
-      <img alt="django" height=72px src="https://cdn.worldvectorlogo.com/logos/fastapi.svg">
+      <img alt="FastAPI" height=72px src="https://cdn.worldvectorlogo.com/logos/fastapi.svg">
       <br>FastAPI
     </td>
     <td align="center">
-      <img alt="vue" height=72px src="https://miro.medium.com/v2/1*K0a7xINk0RM5gfXGSN68cw.png">
+      <img alt="React" height=72px src="https://miro.medium.com/v2/1*K0a7xINk0RM5gfXGSN68cw.png">
       <br>React
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img alt="centos" height=72px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/768px-Windows_logo_-_2012.svg.png">
+      <img alt="Windows" height=72px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/768px-Windows_logo_-_2012.svg.png">
       <br>Windows
     </td>
     <td align="center">
@@ -55,11 +55,11 @@ My telegram 👉 - @OlegEgoism
       <br>MacOS
     </td>
     <td align="center">
-      <img alt="pycharm" height=72px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
+      <img alt="PyCharm" height=72px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
       <br>PyCharm
     </td>
     <td align="center">
-      <img alt="webstorm" height=72px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg">
+      <img alt="WebStorm" height=72px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg">
       <br>WebStorm
     </td>
     <td align="center">
@@ -67,21 +67,21 @@ My telegram 👉 - @OlegEgoism
       <br>Grafana
     </td>
         <td align="center">
-      <img alt="grafana" height=72px src="https://app.yunohost.org/default/v3/logos/71a23aee2309aa0ffa9c960dc818b03d933058d4c93f8e6dd41ea238ee843938.png">
+      <img alt="SyperSet" height=72px src="https://app.yunohost.org/default/v3/logos/71a23aee2309aa0ffa9c960dc818b03d933058d4c93f8e6dd41ea238ee843938.png">
       <br>SyperSet
     </td>
     <td align="center">
-      <img alt="grafana" height=72px src="https://avatars.githubusercontent.com/u/52467369?s=200&v=4">
+      <img alt="Cube" height=72px src="https://avatars.githubusercontent.com/u/52467369?s=200&v=4">
       <br>Cube
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img alt="docker" height=72px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+      <img alt="Docker" height=72px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
       <br>Docker
     </td>
     <td align="center">
-      <img alt="docker" height=72px src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Postman.svg">
+      <img alt="Postman" height=72px src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Postman.svg">
       <br>Postman
     </td>
     <td align="center">
@@ -92,53 +92,53 @@ My telegram 👉 - @OlegEgoism
       <br>AWS
     </td>
     <td align="center">
-      <img alt="postgresql" height=72px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+      <img alt="PostgreSQL" height=72px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
       <br>PostgreSQL
     </td>
     <td align="center">
-      <img alt="mysql" height=72px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+      <img alt="MySQL" height=72px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
       <br>MySQL
     </td>
     <td align="center">
-      <img alt="mysql" height=72px src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg">
+      <img alt="MongoDB" height=72px src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg">
       <br>MongoDB
     </td>
     <td align="center">
-      <img alt="mysql" height=72px src="https://www.svgrepo.com/show/342166/redis.svg">
+      <img alt="Redis" height=72px src="https://www.svgrepo.com/show/342166/redis.svg">
       <br>Redis
     </td>
   </tr>
     <td align="center">
-      <img alt="grafana" height=72px src="https://cdn.prod.website-files.com/62038ffc9cd2db4558e3c7b7/623b43bcfcec4ae2e50ca6e3_rest.svg">
+      <img alt="REST API" height=72px src="https://cdn.prod.website-files.com/62038ffc9cd2db4558e3c7b7/623b43bcfcec4ae2e50ca6e3_rest.svg">
       <br>REST API
     </td>
     <td align="center">
-      <img alt="grafana" height=72px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Apache_Hive_logo.svg/800px-Apache_Hive_logo.svg.png">
+      <img alt="Hive" height=72px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Apache_Hive_logo.svg/800px-Apache_Hive_logo.svg.png">
       <br>Hive
     </td>
     <td align="center">
-      <img alt="grafana" height=72px src="https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-openapi-spec.png">
+      <img alt="Swagger" height=72px src="https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-openapi-spec.png">
       <br>Swagger
     </td>
     <td align="center">
-      <img alt="grafana" height=72px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/480px-Git_icon.svg.png">
+      <img alt="Git" height=72px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/480px-Git_icon.svg.png">
       <br>Git
     </td>
     <td align="center">
-      <img alt="grafana" height=72px src="https://avatars.mds.yandex.net/get-sprav-products/1521147/2a000001917fe180a8de459ad2d2b9d2a159/M_height">
+      <img alt="icCube" height=72px src="https://avatars.mds.yandex.net/get-sprav-products/1521147/2a000001917fe180a8de459ad2d2b9d2a159/M_height">
       <br>icCube
     </td>
     <td align="center">
-      <img alt="grafana" height=72px src="https://www.sunzinet.com/hs-fs/hubfs/00.%20SUNZINET%20Website%20Assets/03.%20Service%20Pages/10.%20All%20Technology%20partner%20Pages/apache%20nifi%20agentur%20SUNZINET%20-%20fachinformatiker%20f%C3%BCr%20systemintegration.png?width=860&height=674&name=apache%20nifi%20agentur%20SUNZINET%20-%20fachinformatiker%20f%C3%BCr%20systemintegration.png">
+      <img alt="NiFi" height=72px src="https://www.sunzinet.com/hs-fs/hubfs/00.%20SUNZINET%20Website%20Assets/03.%20Service%20Pages/10.%20All%20Technology%20partner%20Pages/apache%20nifi%20agentur%20SUNZINET%20-%20fachinformatiker%20f%C3%BCr%20systemintegration.png?width=860&height=674&name=apache%20nifi%20agentur%20SUNZINET%20-%20fachinformatiker%20f%C3%BCr%20systemintegration.png">
       <br>NiFi
     </td>
     <td align="center">
-      <img alt="grafana" height=72px src="https://static-00.iconduck.com/assets.00/datahub-icon-1024x877-2hbkxeco.png">
+      <img alt="DataHub" height=72px src="https://static-00.iconduck.com/assets.00/datahub-icon-1024x877-2hbkxeco.png">
       <br>DataHub
     </td>
     </td>
     <td align="center">
-      <img alt="grafana" height=72px src="https://imply.io/wp-content/uploads/2024/02/image-3.png"> 
-      <br>DataHub
+      <img alt="ClickHouse" height=72px src="https://imply.io/wp-content/uploads/2024/02/image-3.png"> 
+      <br>ClickHouse
     </td>
 </table>
