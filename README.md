@@ -138,7 +138,7 @@ My telegram 👉 - @OlegEgoism
     </td>
     </td>
     <td align="center">
-      <img alt="grafana" height=72px src="https://upload.wikimedia.org/wikipedia/commons/0/0b/ClickHouse_Logo_220x220.svg"> 
+      <img alt="grafana" height=72px src="https://imply.io/wp-content/uploads/2024/02/image-3.png"> 
       <br>DataHub
     </td>
 </table>
