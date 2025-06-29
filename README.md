@@ -133,7 +133,7 @@ My telegram 👉 - @OlegEgoism
       <br>NiFi
     </td>
     <td align="center">
-      <img alt="DataHub" height=72px src="https://static-00.iconduck.com/assets.00/datahub-icon-1024x877-2hbkxeco.png">
+      <img alt="DataHub" height=72px src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_1192e5c87a2b0217f83a08250bb29519/datahub.png">
       <br>DataHub
     </td>
     </td>
