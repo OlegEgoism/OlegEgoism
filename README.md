@@ -1,6 +1,5 @@
 <h3> 
-Hi! I'm Oleg Pustovalov. I love work with new technologies. <br>
-If you're in the know, you'll understand. <br>
+Hi! I'm Oleg Pustovalov. <br>
 My email 👉 - olegpustovalov220@gmail.com <br>
 My telegram 👉 - @OlegEgoism
 </h3>
