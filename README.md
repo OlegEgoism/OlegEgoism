@@ -112,7 +112,7 @@ My telegram 👉 - @OlegEgoism
       <br>REST API
     </td>
     <td align="center">
-      <img alt="Hive" height=72px src="https://adanic.ir/wp-content/uploads/2021/11/apachehive-151229131013-thumbnail-4.webp">
+      <img alt="Hive" height=72px src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Apache_Hive_logo.svg">
       <br>Hive
     </td>
     <td align="center">
