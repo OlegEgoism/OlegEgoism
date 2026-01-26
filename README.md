@@ -8,7 +8,7 @@ My telegram 👉 - @OlegEgoism
 <table>
   <tr>
     <td align="center">
-      <img alt="Python" height=72px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+      <img alt="Python" height=72px widht=90px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
       <br>Python
     </td>
     <td align="center">
