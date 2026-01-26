@@ -120,7 +120,7 @@ My telegram 👉 - @OlegEgoism
       <br>Swagger
     </td>
     <td align="center">
-      <img alt="Git" height=72px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/480px-Git_icon.png">
+      <img alt="Git" height=72px src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
       <br>Git
     </td>
     <td align="center">
