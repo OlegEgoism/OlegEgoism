@@ -42,7 +42,7 @@ My telegram 👉 - @OlegEgoism
   </tr>
   <tr>
     <td align="center">
-      <img alt="Windows" height=72px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/768px-Windows_logo_-_2012.svg.png">
+      <img alt="Windows" height=72px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Windows_logo_-_2012.png/500px-Windows_logo_-_2012.png">
       <br>Windows
     </td>
     <td align="center">
