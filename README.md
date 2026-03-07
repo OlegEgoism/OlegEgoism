@@ -1,145 +1,54 @@
-<h3> 
-Hi! I'm Oleg Pustovalov. <br>
-My email 👉 - olegpustovalov220@gmail.com <br>
-My telegram 👉 - @OlegEgoism
-</h3>
+<!-- 👤 Header -->
+<h1 align="center">Hi, I'm Oleg Pustovalov 👋</h1>
+<p align="center">
+  <strong>Backend Developer | Python | Data Engineering</strong><br>
+  📧 <a href="mailto:olegpustovalov220@gmail.com">olegpustovalov220@gmail.com</a><br>
+  ✈️ <a href="https://t.me/OlegEgoism">@OlegEgoism</a>
+</p>
 
-<h2>MY STACK</h2>
-<table>
-  <tr>
-    <td align="center">
-      <img alt="Python" height=72px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg  ">
-      <br>Python
-    </td>
-    <td align="center">
-      <img alt="Javascript" height=72px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg  ">
-      <br>Javascript
-    </td>
-    <td align="center">
-      <img alt="CSS" height=72px src="https://www.svgrepo.com/show/21671/css.svg  ">
-      <br>CSS
-    </td>
-    <td align="center">
-      <img alt="Bootstrap" height=72px src="https://www.svgrepo.com/show/330083/bootstrap.svg  ">
-      <br>Bootstrap
-    </td>
-    <td align="center">
-      <img alt="Django" height=72px src="https://cdn.worldvectorlogo.com/logos/django.svg  ">
-      <br>Django
-    </td>
-        <td align="center">
-      <img alt="Streamlit" height=72px src="https://archive.org/download/github.com-streamlit-streamlit_-_2020-06-10_07-36-23/cover.jpg  ">
-      <br>Streamlit
-    </td>
-    <td align="center">
-      <img alt="FastAPI" height=72px src="https://cdn.worldvectorlogo.com/logos/fastapi.svg  ">
-      <br>FastAPI
-    </td>
-    <td align="center">
-      <img alt="React" height=72px src="https://miro.medium.com/v2/1  *K0a7xINk0RM5gfXGSN68cw.png">
-      <br>React
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img alt="Windows" height=72px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Windows_logo_-_2012.png/500px-Windows_logo_-_2012.png  ">
-      <br>Windows
-    </td>
-    <td align="center">
-      <img alt="ubuntu" height=72px src="https://user-images.githubusercontent.com/39632170/109294252-25681c80-7857-11eb-9ec4-4fbdad9fadfc.png  ">
-      <br>Ubuntu
-    </td>
-    <td align="center">
-      <img alt="bash" height=72px src="https://img.icons8.com/color/200/mac-logo.png  ">
-      <br>MacOS
-    </td>
-    <td align="center">
-      <img alt="PyCharm" height=72px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg  ">
-      <br>PyCharm
-    </td>
-    <td align="center">
-      <img alt="WebStorm" height=72px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg  ">
-      <br>WebStorm
-    </td>
-    <td align="center">
-      <img alt="grafana" height=72px src="https://cdn.worldvectorlogo.com/logos/grafana.svg  ">
-      <br>Grafana
-    </td>
-        <td align="center">
-      <img alt="SyperSet" height=72px src="https://app.yunohost.org/default/v3/logos/71a23aee2309aa0ffa9c960dc818b03d933058d4c93f8e6dd41ea238ee843938.png  ">
-      <br>SyperSet
-    </td>
-    <td align="center">
-      <img alt="Cube" height=72px src="https://avatars.githubusercontent.com/u/52467369?s=200&v=4  ">
-      <br>Cube
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img alt="Docker" height=72px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg  ">
-      <br>Docker
-    </td>
-    <td align="center">
-      <img alt="Postman" height=72px src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Postman.svg  ">
-      <br>Postman
-    </td>
-    <td align="center">
-      <img alt="grafana" height=72px src="https://www.svgrepo.com/show/303576/rabbitmq-logo.svg  ">
-      <br>RabbitMQ
-    <td align="center">
-      <img alt="aws" height=72px src="https://cdn.worldvectorlogo.com/logos/aws-logo.svg  ">
-      <br>AWS
-    </td>
-    <td align="center">
-      <img alt="PostgreSQL" height=72px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg  ">
-      <br>PostgreSQL
-    </td>
-    <td align="center">
-      <img alt="MySQL" height=72px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg  ">
-      <br>MySQL
-    </td>
-    <td align="center">
-      <img alt="MongoDB" height=72px src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg  ">
-      <br>MongoDB
-    </td>
-    <td align="center">
-      <img alt="Redis" height=72px src="https://www.svgrepo.com/show/342166/redis.svg  ">
-      <br>Redis
-    </td>
-  </tr>
-    <td align="center">
-      <img alt="REST API" height=72px src="https://cdn.prod.website-files.com/62038ffc9cd2db4558e3c7b7/623b43bcfcec4ae2e50ca6e3_rest.svg  ">
-      <br>REST API
-    </td>
-    <td align="center">
-      <img alt="Hive" height=72px src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Apache_Hive_logo.svg  ">
-      <br>Hive
-    </td>
-    <td align="center">
-      <img alt="Swagger" height=72px src="https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-openapi-spec.png  ">
-      <br>Swagger
-    </td>
-    <td align="center">
-      <img alt="Git" height=72px src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png  ">
-      <br>Git
-    </td>
-    <td align="center">
-      <img alt="icCube" height=72px src="https://avatars.mds.yandex.net/get-sprav-products/1521147/2a000001917fe180a8de459ad2d2b9d2a159/M_height  ">
-      <br>icCube
-    </td>
-    <td align="center">
-      <img alt="NiFi" height=72px src="https://www.sunzinet.com/hs-fs/hubfs/00.%20SUNZINET%20Website%20Assets/03.%20Service%20Pages/10.%20All%20Technology%20partner%20Pages/apache%20nifi%20agentur%20SUNZINET%20-%20fachinformatiker%20f%C3%BCr%20systemintegration.png?width=860&height=674&name=apache%20nifi%20agentur%20SUNZINET%20-%20fachinformatiker%20f%C3%BCr%20systemintegration.png  ">
-      <br>NiFi
-    </td>
-    <td align="center">
-      <img alt="DataHub" height=72px src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_1192e5c87a2b0217f83a08250bb29519/datahub.png  ">
-      <br>DataHub
-    </td>
-    </td>
-    <td align="center">
-      <img alt="ClickHouse" height=72px src="https://imply.io/wp-content/uploads/2024/02/image-3.png  "> 
-      <br>ClickHouse
-    </td>
-</table>
+---
 
- 
+## 🛠 Tech Stack
+
+### 💻 Languages & Frameworks
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+</p>
+
+### 🗄 Databases & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black" />
+</p>
+
+### 🐳 DevOps & Cloud
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+</p>
+
+### 📊 Analytics & Visualization
+<p align="center">
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Superset-1B58F4?style=for-the-badge&logo=apache-superset&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+</p>
+
+---
+
+## 📈 GitHub Stats (опционально)
+<!-- Замени 'your-username' на свой логин -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=olegpustovalov&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olegpustovalov&layout=compact&theme=github_dark&hide_border=true" height="150"/>
+</p>
