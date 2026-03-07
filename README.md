@@ -13,16 +13,6 @@
   </a>
 </p>
 
----
-
-## 👨‍💻 About Me
-
-- Building backend services with **Python**
-- Developing applications with **Django**, **FastAPI**, **Streamlit**
-- Working with analytics, dashboards, data platforms, and integrations
-- Interested in scalable systems, BI, and engineering productivity
-
----
 
 ## 🚀 Tech Stack
 
@@ -73,15 +63,4 @@
   <img src="https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=webstorm&logoColor=white" />
 </p>
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
-</p>
+ 
