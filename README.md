@@ -51,12 +51,10 @@
 ![Nomad](https://img.shields.io/badge/Nomad-00CA8E?style=for-the-badge)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge)
 
-### Metadata
-![DataHub](https://img.shields.io/badge/DataHub-03BFB5?style=for-the-badge)
-
-### Data Engineering / Workflow / Platform Tools
+### Data Engineering / Workflow / Platform Tools / Metadata
 ![NiFi](https://img.shields.io/badge/NiFi-017CEE?style=for-the-badge)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge)
 ![Prefect](https://img.shields.io/badge/Prefect-070E10?style=for-the-badge)
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge)
 ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge)
+![DataHub](https://img.shields.io/badge/DataHub-03BFB5?style=for-the-badge)
