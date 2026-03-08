@@ -1,4 +1,4 @@
-<h1>Hi, I'm Pustovalov Oleg - Backend Developer & Data Engineer</h1>
+<h1>👋 Hi, I'm Pustovalov Oleg - Backend Developer & Data Engineer</h1>
 
 <p>
   <a href="mailto:olegpustovalov220@gmail.com">
@@ -52,7 +52,3 @@
 ![DataHub](https://img.shields.io/badge/DataHub-03BFB5?style=for-the-badge)
 ![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge)
 
-### Operating Systems
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge)
