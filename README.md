@@ -33,14 +33,6 @@
 ![Hive](https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge)
 
-### BI Analytics & Metadata
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge)
-![Superset](https://img.shields.io/badge/Superset-1A73E8?style=for-the-badge)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge)
-![Cube](https://img.shields.io/badge/icCube-333333?style=for-the-badge)
-![DataHub](https://img.shields.io/badge/DataHub-03BFB5?style=for-the-badge)
-![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge)
-
 ### Data Engineering & DevOps
 ![NiFi](https://img.shields.io/badge/NiFi-017CEE?style=for-the-badge)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge)
@@ -51,6 +43,14 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge)
+
+### BI Analytics & Metadata
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge)
+![Superset](https://img.shields.io/badge/Superset-1A73E8?style=for-the-badge)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge)
+![Cube](https://img.shields.io/badge/icCube-333333?style=for-the-badge)
+![DataHub](https://img.shields.io/badge/DataHub-03BFB5?style=for-the-badge)
+![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge)
 
 ### Operating Systems
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge)
