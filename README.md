@@ -1,6 +1,10 @@
 ## 👋 Hi, I'm Pustovalov Oleg
 
 <p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F7FF&width=750&lines=Backend+Developer;Data+Engineer;Data+Analyst"" alt="Typing SVG" />
+</p>
+
+<p>
   <a href="mailto:olegpustovalov220@gmail.com">
     <img src="https://img.shields.io/badge/olegpustovalov220%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a><br>
@@ -9,7 +13,7 @@
   </a>
 </p>
 
-### Languages & Frameworks
+<strong>Languages & Frameworks</strong><br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge)
@@ -21,7 +25,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge)
 
-### Databases
+<strong>Databases</strong><br>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge)
 ![Greenplum](https://img.shields.io/badge/Greenplum-2C8EBB?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge)
@@ -32,7 +36,7 @@
 ![Hive](https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge)
 
-### Data Engineering & DevOps
+<strong>Data Engineering & DevOps</strong><br>
 ![NiFi](https://img.shields.io/badge/NiFi-017CEE?style=for-the-badge)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge)
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge)
@@ -43,7 +47,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge)
 
-### BI Analytics & Metadata
+<strong>BI Analytics & Metadata</strong><br>
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge)
 ![Superset](https://img.shields.io/badge/Superset-1A73E8?style=for-the-badge)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge)
