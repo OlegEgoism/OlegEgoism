@@ -1,17 +1,17 @@
 ## 👋 Hi, I'm Pustovalov Oleg
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F7FF&width=750&lines=Backend+Developer;Data+Engineer;Data+Analyst" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F5F5F5&width=750&lines=Backend+Developer;Data+Engineer;Data+Analyst" alt="Typing SVG" />
 </p>
 
-<p>
+<strong>
   <a href="mailto:olegpustovalov220@gmail.com">
     <img src="https://img.shields.io/badge/olegpustovalov220%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a><br>
   <a href="https://t.me/OlegEgoism">
     <img src="https://img.shields.io/badge/@OlegEgoism-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-</p>
+</strong>
 
 <strong>Languages & Frameworks</strong><br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
