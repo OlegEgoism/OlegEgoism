@@ -1,37 +1,23 @@
-# Oleg Pustovalov
+<h1 align="center">Oleg Pustovalov</h1>
+<p align="center"><i>Backend & Data Engineer</i></p>
 
-**Backend Developer | Python Engineer | Data & Analytics Developer**
-
-**Email:** [olegpustovalov220@gmail.com](mailto:olegpustovalov220@gmail.com)  
-**Telegram:** [@OlegEgoism](https://t.me/OlegEgoism)
-
----
-
-## About Me
-
-Backend developer focused on web applications, APIs, analytics, dashboards, and data-driven solutions.  
-Experienced in backend architecture, databases, BI systems, integrations, and workflow orchestration.
+<p align="center">
+  <a href="mailto:olegpustovalov220@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/OlegEgoism"><img src="https://img.shields.io/badge/@OlegEgoism-26A5E4?style=flat-square&logo=telegram&logoColor=white" /></a>
+</p>
 
 ---
 
-## Tech Stack
+### 🧰 Core Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Postgres](https://img.shields.io/badge/-Postgres-316192?style=flat-square&logo=postgresql&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/-ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![K8s](https://img.shields.io/badge/-K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-**Languages:** Python, JavaScript, CSS, SQL  
-**Frameworks:** Django, FastAPI, Flask, Streamlit, Node.js, React, Bootstrap  
-**Databases:** PostgreSQL, Greenplum, MySQL, SQLite, Redis, YDB, ClickHouse, Hive, MongoDB  
-**Version Control:** GitHub, GitLab  
-**Operating Systems:** Windows, Ubuntu, macOS  
-**Analytics / BI / Analysis:** Power BI, Superset, Metabase, Grafana, Cube.js, Cube, icCube, Mondrian  
-**Containerization & Orchestration:** Docker, Podman, Nomad, Kubernetes  
-**Metadata:** DataHub  
-**Data Engineering / Workflow / Platform Tools:** NiFi, Airflow, Prefect, Hadoop, Spark
-
----
-
-## Focus Areas
-
-- Backend development
-- API architecture
-- Data engineering
-- BI and analytics
-- Infrastructure and integrations
+**Also work with:**  
+`Flask` `Streamlit` `MongoDB` `Redis` `Greenplum` `Hive` `Superset` `Grafana` `NiFi` `GitHub` `Linux`
