@@ -36,12 +36,10 @@
 ### BI Analytics & Metadata
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge)
 ![Superset](https://img.shields.io/badge/Superset-1A73E8?style=for-the-badge)
-![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge)
-![Cube.js](https://img.shields.io/badge/Cube.js-000000?style=for-the-badge)
-![icCube](https://img.shields.io/badge/icCube-333333?style=for-the-badge)
-![Mondrian](https://img.shields.io/badge/Mondrian-8B5CF6?style=for-the-badge)
+![Cube](https://img.shields.io/badge/icCube-333333?style=for-the-badge)
 ![DataHub](https://img.shields.io/badge/DataHub-03BFB5?style=for-the-badge)
+![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge)
 
 ### Data Engineering / Workflow / Platform Tools
 ![NiFi](https://img.shields.io/badge/NiFi-017CEE?style=for-the-badge)
