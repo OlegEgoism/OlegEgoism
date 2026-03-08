@@ -1,4 +1,5 @@
-<h1>👋 Hi, I'm Pustovalov Oleg - Backend Developer & Data Engineer</h1>
+<h1>👋 Hi, I'm Pustovalov Oleg</h1>
+## Backend Developer & Data Engineer
 
 <p>
   <a href="mailto:olegpustovalov220@gmail.com">
