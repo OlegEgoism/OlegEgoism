@@ -48,7 +48,11 @@
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge)
 ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge)
 
-### Version Control
+### Containerization & Orchestration & Version Control
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge)
+![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge)
+![Nomad](https://img.shields.io/badge/Nomad-00CA8E?style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge)
 
@@ -56,13 +60,3 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge)
-
-
-
-### Containerization & Orchestration
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge)
-![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge)
-![Nomad](https://img.shields.io/badge/Nomad-00CA8E?style=for-the-badge)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge)
-
-
