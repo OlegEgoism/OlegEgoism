@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Pustovalov Oleg
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F7FF&width=750&lines=Backend+Developer;Data+Engineer;Data+Analyst"" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F7FF&width=750&lines=Backend+Developer;Data+Engineer;Data+Analyst" alt="Typing SVG" />
 </p>
 
 <p>
