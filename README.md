@@ -13,7 +13,7 @@
   </a>
 </p>
 
-<h3> Languages & Frameworks </h3>
+<strong><h3> Languages & Frameworks </h3></strong>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge)
