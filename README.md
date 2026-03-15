@@ -1,7 +1,5 @@
-## 👋 Hi, I'm Oleg
-
 <strong>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F5F5F5&width=750&lines=Backend+Developer;Data+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F5F5F5&width=750&lines=👋+Hi,+I'm+Oleg+Backend+Developer+and+Data+Engineer" alt="Typing SVG" />
 </strong>
 
 <p>
