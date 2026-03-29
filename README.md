@@ -23,6 +23,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge)
 
 <h3> Databases </h3>
 
@@ -57,3 +58,11 @@
 ![eMondrian](https://img.shields.io/badge/eMondrian-66CCFF?style=for-the-badge)
 ![DataHub](https://img.shields.io/badge/DataHub-03BFB5?style=for-the-badge)
 ![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge)
+
+<h3> Architecture & Patterns </h3>
+
+![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge)
+![Event Driven](https://img.shields.io/badge/Event_Driven-000000?style=for-the-badge)
+![ETL/ELT](https://img.shields.io/badge/ETL/ELT-4CAF50?style=for-the-badge)
+![Data Pipelines](https://img.shields.io/badge/Data_Pipelines-673AB7?style=for-the-badge)
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-607D8B?style=for-the-badge)
