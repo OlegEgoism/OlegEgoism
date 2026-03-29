@@ -53,6 +53,7 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge)
 ![Superset](https://img.shields.io/badge/Superset-1A73E8?style=for-the-badge)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge)
-![Cube](https://img.shields.io/badge/icCube-333333?style=for-the-badge)
+![icCube](https://img.shields.io/badge/icCube-333333?style=for-the-badge)
+![eMondrian](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge)
 ![DataHub](https://img.shields.io/badge/DataHub-03BFB5?style=for-the-badge)
 ![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge)
