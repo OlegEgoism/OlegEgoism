@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:111827,100:7c3aed&text=TECH%STACK&fontSize=24&fontColor=ffffff&animation=fadeIn" />
+<h1>TECH STACK</h1>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge)
