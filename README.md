@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<h1>TECH STACK</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&color=0:111827,100:1F2937&text=TECH%20%STACK&fontColor=FFFFFF&fontSize=18&animation=scaleIn" />
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge)
@@ -56,6 +56,5 @@
 ![eMondrian](https://img.shields.io/badge/eMondrian-66CCFF?style=for-the-badge)
 ![DataHub](https://img.shields.io/badge/DataHub-03BFB5?style=for-the-badge)
 ![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge)
-
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer" />
