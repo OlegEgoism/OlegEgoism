@@ -1,16 +1,16 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&section=header&text=Oleg%20Pustovalov&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Backend%20Developer%20%7C%20Data%20Engineer&descSize=20&descAlignY=56" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&section=header&text=Oleg%20Pustovalov&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=18&desc=Backend%20Developer%20%7C%20Data%20Engineer&descSize=20&descAlignY=36" />
 
 <p>
   <a href="mailto:olegpustovalov220@gmail.com">
-    <img src="https://img.shields.io/badge/Email-olegpustovalov220%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/olegpustovalov220%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </br>
   <a href="https://t.me/OlegEgoism">
-    <img src="https://img.shields.io/badge/Telegram-%40OlegEgoism-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/%40OlegEgoism-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
 
-<h1> SKILLS </h1>
+<h1>TECH STACK</h1>
   
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge)
