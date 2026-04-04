@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&section=header&text=Oleg%20Pustovalov&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=18&desc=Backend%20Developer%20%7C%20Data%20Engineer&descSize=20&descAlignY=36" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&section=header&text=Oleg%20Pustovalov&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=18&desc=Backend%20Developer%20%7C%20Data%20Engineer&descSize=20&descAlignY=42" />
 
 <p>
   <a href="mailto:olegpustovalov220@gmail.com">
