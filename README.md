@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&section=header&text=Oleg%20Pustovalov&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=18&desc=Backend%20Developer%20%7C%20Data%20Engineer&descSize=20&descAlignY=42" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&reversal=true&height=200&color=gradient&customColorList=12,20,24,30&text=Oleg%20Pustovalov&fontSize=42&fontColor=FFFFFF&fontAlign=22&fontAlignY=32&animation=scaleIn&desc=Backend%20Developer%20%7C%20Data%20Engineer&descSize=18&descAlign=22&descAlignY=52" />
 
 <p>
   <a href="mailto:olegpustovalov220@gmail.com">
@@ -9,8 +9,6 @@
     <img src="https://img.shields.io/badge/%40OlegEgoism-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&color=0:111827,100:1F2937&text=TECH%20%STACK&fontColor=FFFFFF&fontSize=18&animation=scaleIn" />
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge)
@@ -57,4 +55,4 @@
 ![DataHub](https://img.shields.io/badge/DataHub-03BFB5?style=for-the-badge)
 ![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer" />
+
