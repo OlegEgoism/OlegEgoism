@@ -1,5 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&section=header&text=Oleg%20Pustovalov&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=18&desc=Backend%20Developer%20%7C%20Data%20Engineer&descSize=20&descAlignY=36" />
-<p align="center">
+<p>
   <a href="mailto:olegpustovalov220@gmail.com">
     <img src="https://img.shields.io/badge/olegpustovalov220%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a><br/>
