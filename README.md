@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=Oleg%20Pustovalov&fontSize=55&color=gradient"/>
 </p>
 
-<h1 align="center">TECH STACK</h1>
+<!-- <h1 align="center">TECH STACK</h1> -->
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge" />
