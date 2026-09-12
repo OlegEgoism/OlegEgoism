@@ -58,7 +58,3 @@
   <img src="https://img.shields.io/badge/DataHub-03BFB5?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge" />
 </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" alt=""/>
-</p>
