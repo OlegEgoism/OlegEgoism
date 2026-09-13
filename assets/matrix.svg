@@ -2761,6 +2761,6 @@
     </g>
     <rect width="100%" height="100%" fill="url(#fade)"/>
     <ellipse cx="500" cy="100" rx="380" ry="80" fill="url(#plate)"/>
-    <text x="500" y="102" text-anchor="middle" font-family="Courier New, Courier, monospace" font-size="52" font-weight="bold" letter-spacing="2" fill="#ffffff" stroke="#0d1117" stroke-width="6" paint-order="stroke">Oleg Pustovalov</text>
+    <text x="500" y="102" text-anchor="middle" font-family="Courier New, Courier, monospace" font-size="52" font-weight="bold" letter-spacing="2" fill="#ffffff" stroke="#0d1117" stroke-width="6" paint-order="stroke">OLEG PUSTOVALOV</text>
     <text x="500" y="134" text-anchor="middle" font-family="Courier New, Courier, monospace" font-size="16" letter-spacing="4" fill="#00d46a" stroke="#0d1117" stroke-width="4" paint-order="stroke">PYTHON DEVELOPER &#183; DATA ENGINEER</text>
 </svg>
