@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=Oleg%20Pustovalov&fontSize=55&color=gradient" alt="Oleg Pustovalov"/>
-</p>
+<img width="100%" src="assets/matrix.svg" alt="Oleg Pustovalov"/>
 
 <p align="center">
 <a href="mailto:olegpustovalov220@gmail.com"><img src="https://img.shields.io/badge/Email-181717?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email"/></a>
