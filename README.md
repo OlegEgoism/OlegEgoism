@@ -1,11 +1,6 @@
 <img width="100%" src="assets/matrix.svg" alt="Oleg Pustovalov"/>
 
 <p align="center">
-<a href="mailto:olegpustovalov220@gmail.com"><img src="https://img.shields.io/badge/Email-181717?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email"/></a>
-<a href="https://t.me/OlegEgoism"><img src="https://img.shields.io/badge/Telegram-181717?style=flat-square&logo=telegram&logoColor=26A5E4" alt="Telegram"/></a>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/github/followers/OlegEgoism?style=for-the-badge&color=6E42FF&labelColor=181717" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/OlegEgoism?style=for-the-badge&color=6E42FF&labelColor=181717" alt="Stars"/>
 </p>
