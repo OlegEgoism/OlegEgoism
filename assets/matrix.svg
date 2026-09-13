@@ -1,9 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="200" viewBox="0 0 1000 200" role="img" aria-label="OLEG PUSTOVALOV">
     <style>
         .rain text{font-family:"Courier New",monospace;font-size:14px;fill:#00d46a;text-anchor:middle}
-        .words text{font-family:"Courier New",monospace;font-size:12px;fill:#8B6CFF;text-anchor:middle}
-        .words text.h{fill:#D8CCFF}
-        @keyframes fallD{from{transform:translateY(-384px)}to{transform:translateY(0)}}
+        .words text{font-family:"Courier New",monospace;font-size:12px;font-weight:bold;text-anchor:middle}
+              @keyframes fallD{from{transform:translateY(-384px)}to{transform:translateY(0)}}
         @keyframes fallW{from{transform:translateY(-216px)}to{transform:translateY(0)}}
         .c0{animation:fallD 7.11s linear -2.32s infinite;opacity:0.39} .c1{animation:fallD 6.98s linear -2.63s infinite;opacity:0.2} .c2{animation:fallD 7.61s linear -6.22s infinite;opacity:0.31} .c3{animation:fallD 4.32s linear -1.84s infinite;opacity:0.28} .c4{animation:fallD 4.83s linear -0.97s
         infinite;opacity:0.21} .c5{animation:fallD 8.88s linear -4.56s infinite;opacity:0.31} .c6{animation:fallD 7.41s linear -1.69s infinite;opacity:0.22} .c7{animation:fallD 7.53s linear -5.06s infinite;opacity:0.23} .c8{animation:fallD 5.95s linear -4.84s infinite;opacity:0.44}
@@ -2539,224 +2538,224 @@
             <text x="990.0" y="752">0</text>
         </g>
         <g class="words c50">
-            <text x="45.5" y="0">Python</text>
-            <text x="45.5" y="24">Podman</text>
-            <text x="45.5" y="48">MongoDB</text>
-            <text x="45.5" y="72">SQL</text>
-            <text x="45.5" y="96">CSS</text>
-            <text x="45.5" y="120">Redis</text>
-            <text x="45.5" y="144">Greenplum</text>
-            <text x="45.5" y="168">Hive</text>
-            <text x="45.5" y="192" class="h">PostgreSQL</text>
-            <text x="45.5" y="216">SQLite</text>
-            <text x="45.5" y="240">Streamlit</text>
-            <text x="45.5" y="264">Grafana</text>
-            <text x="45.5" y="288">icCube</text>
-            <text x="45.5" y="312">FastAPI</text>
-            <text x="45.5" y="336">Django</text>
-            <text x="45.5" y="360">JavaScript</text>
-            <text x="45.5" y="384">YDB</text>
-            <text x="45.5" y="408" class="h">Docker</text>
+            <text x="45.5" y="0" style="fill:#9B7BE0">PYTHON</text>
+            <text x="45.5" y="24" style="fill:#5B8DEF">PODMAN</text>
+            <text x="45.5" y="48" style="fill:#2496ED">MONGODB</text>
+            <text x="45.5" y="72" style="fill:#009688">SQL</text>
+            <text x="45.5" y="96" style="fill:#D82C20">CSS</text>
+            <text x="45.5" y="120" style="fill:#FC6D26">REDIS</text>
+            <text x="45.5" y="144" style="fill:#3C9BEE">GREENPLUM</text>
+            <text x="45.5" y="168" style="fill:#FF9F1C">HIVE</text>
+            <text x="45.5" y="192" class="h" style="fill:#5B8DEF">POSTGRESQL</text>
+            <text x="45.5" y="216" style="fill:#1572B6">SQLITE</text>
+            <text x="45.5" y="240" style="fill:#FC6D26">STREAMLIT</text>
+            <text x="45.5" y="264" style="fill:#3776AB">GRAFANA</text>
+            <text x="45.5" y="288" style="fill:#66CCFF">ICCUBE</text>
+            <text x="45.5" y="312" style="fill:#3C9BEE">FASTAPI</text>
+            <text x="45.5" y="336" style="fill:#4A90D9">DJANGO</text>
+            <text x="45.5" y="360" style="fill:#2496ED">JAVASCRIPT</text>
+            <text x="45.5" y="384" style="fill:#9B7BE0">YDB</text>
+            <text x="45.5" y="408" class="h" style="fill:#61DAFB">DOCKER</text>
         </g>
         <g class="words c51">
-            <text x="136.4" y="0">Linux</text>
-            <text x="136.4" y="24">Power BI</text>
-            <text x="136.4" y="48">Event Driven</text>
-            <text x="136.4" y="72">Hadoop</text>
-            <text x="136.4" y="96">Flask</text>
-            <text x="136.4" y="120">NiFi</text>
-            <text x="136.4" y="144">Superset</text>
-            <text x="136.4" y="168">Windows</text>
-            <text x="136.4" y="192" class="h">Kubernetes</text>
-            <text x="136.4" y="216">Bootstrap</text>
-            <text x="136.4" y="240">Data Pipelines</text>
-            <text x="136.4" y="264">React</text>
-            <text x="136.4" y="288">Spark</text>
-            <text x="136.4" y="312">Metabase</text>
-            <text x="136.4" y="336">GitHub</text>
-            <text x="136.4" y="360">DataHub</text>
-            <text x="136.4" y="384">Microservices</text>
-            <text x="136.4" y="408" class="h">Airflow</text>
+            <text x="136.4" y="0" style="fill:#F2C811">LINUX</text>
+            <text x="136.4" y="24" style="fill:#3C9BEE">POWER BI</text>
+            <text x="136.4" y="48" style="fill:#2496ED">EVENT DRIVEN</text>
+            <text x="136.4" y="72" style="fill:#66CCFF">HADOOP</text>
+            <text x="136.4" y="96" style="fill:#2496ED">FLASK</text>
+            <text x="136.4" y="120" style="fill:#3C9BEE">NIFI</text>
+            <text x="136.4" y="144" style="fill:#8B6CFF">SUPERSET</text>
+            <text x="136.4" y="168" style="fill:#FF9F1C">WINDOWS</text>
+            <text x="136.4" y="192" class="h" style="fill:#E95420">KUBERNETES</text>
+            <text x="136.4" y="216" style="fill:#009688">BOOTSTRAP</text>
+            <text x="136.4" y="240" style="fill:#9B7BE0">DATA PIPELINES</text>
+            <text x="136.4" y="264" style="fill:#FF9F1C">REACT</text>
+            <text x="136.4" y="288" style="fill:#009688">SPARK</text>
+            <text x="136.4" y="312" style="fill:#E95420">METABASE</text>
+            <text x="136.4" y="336" style="fill:#E25A1C">GITHUB</text>
+            <text x="136.4" y="360" style="fill:#8B6CFF">DATAHUB</text>
+            <text x="136.4" y="384" style="fill:#F46800">MICROSERVICES</text>
+            <text x="136.4" y="408" class="h" style="fill:#3776AB">AIRFLOW</text>
         </g>
         <g class="words c52">
-            <text x="227.3" y="0">ClickHouse</text>
-            <text x="227.3" y="24">ETL/ELT</text>
-            <text x="227.3" y="48">Distributed Systems</text>
-            <text x="227.3" y="72">Ubuntu</text>
-            <text x="227.3" y="96">eMondrian</text>
-            <text x="227.3" y="120">MySQL</text>
-            <text x="227.3" y="144">GitLab</text>
-            <text x="227.3" y="168">macOS</text>
-            <text x="227.3" y="192" class="h">Python</text>
-            <text x="227.3" y="216">Podman</text>
-            <text x="227.3" y="240">MongoDB</text>
-            <text x="227.3" y="264">SQL</text>
-            <text x="227.3" y="288">CSS</text>
-            <text x="227.3" y="312">Redis</text>
-            <text x="227.3" y="336">Greenplum</text>
-            <text x="227.3" y="360">Hive</text>
-            <text x="227.3" y="384">PostgreSQL</text>
-            <text x="227.3" y="408" class="h">SQLite</text>
+            <text x="227.3" y="0" style="fill:#4CAF50">CLICKHOUSE</text>
+            <text x="227.3" y="24" style="fill:#03BFB5">ETL/ELT</text>
+            <text x="227.3" y="48" style="fill:#1572B6">DISTRIBUTED SYSTEMS</text>
+            <text x="227.3" y="72" style="fill:#FF4B4B">UBUNTU</text>
+            <text x="227.3" y="96" style="fill:#03BFB5">EMONDRIAN</text>
+            <text x="227.3" y="120" style="fill:#5B8DEF">MYSQL</text>
+            <text x="227.3" y="144" style="fill:#F7DF1E">GITLAB</text>
+            <text x="227.3" y="168" style="fill:#2C8EBB">MACOS</text>
+            <text x="227.3" y="192" class="h" style="fill:#03BFB5">PYTHON</text>
+            <text x="227.3" y="216" style="fill:#3776AB">PODMAN</text>
+            <text x="227.3" y="240" style="fill:#66CCFF">MONGODB</text>
+            <text x="227.3" y="264" style="fill:#E95420">SQL</text>
+            <text x="227.3" y="288" style="fill:#4A90D9">CSS</text>
+            <text x="227.3" y="312" style="fill:#3C9BEE">REDIS</text>
+            <text x="227.3" y="336" style="fill:#FC6D26">GREENPLUM</text>
+            <text x="227.3" y="360" style="fill:#F46800">HIVE</text>
+            <text x="227.3" y="384" style="fill:#8B6CFF">POSTGRESQL</text>
+            <text x="227.3" y="408" class="h" style="fill:#F2C811">SQLITE</text>
         </g>
         <g class="words c53">
-            <text x="318.2" y="0">Streamlit</text>
-            <text x="318.2" y="24">Grafana</text>
-            <text x="318.2" y="48">icCube</text>
-            <text x="318.2" y="72">FastAPI</text>
-            <text x="318.2" y="96">Django</text>
-            <text x="318.2" y="120">JavaScript</text>
-            <text x="318.2" y="144">YDB</text>
-            <text x="318.2" y="168">Docker</text>
-            <text x="318.2" y="192" class="h">Linux</text>
-            <text x="318.2" y="216">Power BI</text>
-            <text x="318.2" y="240">Event Driven</text>
-            <text x="318.2" y="264">Hadoop</text>
-            <text x="318.2" y="288">Flask</text>
-            <text x="318.2" y="312">NiFi</text>
-            <text x="318.2" y="336">Superset</text>
-            <text x="318.2" y="360">Windows</text>
-            <text x="318.2" y="384">Kubernetes</text>
-            <text x="318.2" y="408" class="h">Bootstrap</text>
+            <text x="318.2" y="0" style="fill:#509EE3">STREAMLIT</text>
+            <text x="318.2" y="24" style="fill:#FFCC01">GRAFANA</text>
+            <text x="318.2" y="48" style="fill:#8B6CFF">ICCUBE</text>
+            <text x="318.2" y="72" style="fill:#F46800">FASTAPI</text>
+            <text x="318.2" y="96" style="fill:#509EE3">DJANGO</text>
+            <text x="318.2" y="120" style="fill:#5B8DEF">JAVASCRIPT</text>
+            <text x="318.2" y="144" style="fill:#13AA52">YDB</text>
+            <text x="318.2" y="168" style="fill:#009688">DOCKER</text>
+            <text x="318.2" y="192" class="h" style="fill:#D82C20">LINUX</text>
+            <text x="318.2" y="216" style="fill:#2FA36B">POWER BI</text>
+            <text x="318.2" y="240" style="fill:#F7DF1E">EVENT DRIVEN</text>
+            <text x="318.2" y="264" style="fill:#009688">HADOOP</text>
+            <text x="318.2" y="288" style="fill:#3C9BEE">FLASK</text>
+            <text x="318.2" y="312" style="fill:#61DAFB">NIFI</text>
+            <text x="318.2" y="336" style="fill:#4A90D9">SUPERSET</text>
+            <text x="318.2" y="360" style="fill:#4CAF50">WINDOWS</text>
+            <text x="318.2" y="384" style="fill:#FFCC01">KUBERNETES</text>
+            <text x="318.2" y="408" class="h" style="fill:#03BFB5">BOOTSTRAP</text>
         </g>
         <g class="words c54">
-            <text x="409.1" y="0">Data Pipelines</text>
-            <text x="409.1" y="24">React</text>
-            <text x="409.1" y="48">Spark</text>
-            <text x="409.1" y="72">Metabase</text>
-            <text x="409.1" y="96">GitHub</text>
-            <text x="409.1" y="120">DataHub</text>
-            <text x="409.1" y="144">Microservices</text>
-            <text x="409.1" y="168">Airflow</text>
-            <text x="409.1" y="192" class="h">ClickHouse</text>
-            <text x="409.1" y="216">ETL/ELT</text>
-            <text x="409.1" y="240">Distributed Systems</text>
-            <text x="409.1" y="264">Ubuntu</text>
-            <text x="409.1" y="288">eMondrian</text>
-            <text x="409.1" y="312">MySQL</text>
-            <text x="409.1" y="336">GitLab</text>
-            <text x="409.1" y="360">macOS</text>
-            <text x="409.1" y="384">Python</text>
-            <text x="409.1" y="408" class="h">Podman</text>
+            <text x="409.1" y="0" style="fill:#FF9F1C">DATA PIPELINES</text>
+            <text x="409.1" y="24" style="fill:#E95420">REACT</text>
+            <text x="409.1" y="48" style="fill:#2C8EBB">SPARK</text>
+            <text x="409.1" y="72" style="fill:#FFCC01">METABASE</text>
+            <text x="409.1" y="96" style="fill:#E25A1C">GITHUB</text>
+            <text x="409.1" y="120" style="fill:#66CCFF">DATAHUB</text>
+            <text x="409.1" y="144" style="fill:#8B6CFF">MICROSERVICES</text>
+            <text x="409.1" y="168" style="fill:#5B8DEF">AIRFLOW</text>
+            <text x="409.1" y="192" class="h" style="fill:#D82C20">CLICKHOUSE</text>
+            <text x="409.1" y="216" style="fill:#2496ED">ETL/ELT</text>
+            <text x="409.1" y="240" style="fill:#5B8DEF">DISTRIBUTED SYSTEMS</text>
+            <text x="409.1" y="264" style="fill:#FFCC01">UBUNTU</text>
+            <text x="409.1" y="288" style="fill:#5B8DEF">EMONDRIAN</text>
+            <text x="409.1" y="312" style="fill:#9B7BE0">MYSQL</text>
+            <text x="409.1" y="336" style="fill:#00A3C4">GITLAB</text>
+            <text x="409.1" y="360" style="fill:#4CAF50">MACOS</text>
+            <text x="409.1" y="384" style="fill:#3776AB">PYTHON</text>
+            <text x="409.1" y="408" class="h" style="fill:#E95420">PODMAN</text>
         </g>
         <g class="words c55">
-            <text x="500.0" y="0">MongoDB</text>
-            <text x="500.0" y="24">SQL</text>
-            <text x="500.0" y="48">CSS</text>
-            <text x="500.0" y="72">Redis</text>
-            <text x="500.0" y="96">Greenplum</text>
-            <text x="500.0" y="120">Hive</text>
-            <text x="500.0" y="144">PostgreSQL</text>
-            <text x="500.0" y="168">SQLite</text>
-            <text x="500.0" y="192" class="h">Streamlit</text>
-            <text x="500.0" y="216">Grafana</text>
-            <text x="500.0" y="240">icCube</text>
-            <text x="500.0" y="264">FastAPI</text>
-            <text x="500.0" y="288">Django</text>
-            <text x="500.0" y="312">JavaScript</text>
-            <text x="500.0" y="336">YDB</text>
-            <text x="500.0" y="360">Docker</text>
-            <text x="500.0" y="384">Linux</text>
-            <text x="500.0" y="408" class="h">Power BI</text>
+            <text x="500.0" y="0" style="fill:#4A90D9">MONGODB</text>
+            <text x="500.0" y="24" style="fill:#FC6D26">SQL</text>
+            <text x="500.0" y="48" style="fill:#4CAF50">CSS</text>
+            <text x="500.0" y="72" style="fill:#F2C811">REDIS</text>
+            <text x="500.0" y="96" style="fill:#FF4B4B">GREENPLUM</text>
+            <text x="500.0" y="120" style="fill:#F2C811">HIVE</text>
+            <text x="500.0" y="144" style="fill:#E95420">POSTGRESQL</text>
+            <text x="500.0" y="168" style="fill:#00A3C4">SQLITE</text>
+            <text x="500.0" y="192" class="h" style="fill:#2496ED">STREAMLIT</text>
+            <text x="500.0" y="216" style="fill:#5B8DEF">GRAFANA</text>
+            <text x="500.0" y="240" style="fill:#5B8DEF">ICCUBE</text>
+            <text x="500.0" y="264" style="fill:#2FA36B">FASTAPI</text>
+            <text x="500.0" y="288" style="fill:#F2C811">DJANGO</text>
+            <text x="500.0" y="312" style="fill:#FF9F1C">JAVASCRIPT</text>
+            <text x="500.0" y="336" style="fill:#61DAFB">YDB</text>
+            <text x="500.0" y="360" style="fill:#FF9F1C">DOCKER</text>
+            <text x="500.0" y="384" style="fill:#66CCFF">LINUX</text>
+            <text x="500.0" y="408" class="h" style="fill:#5B8DEF">POWER BI</text>
         </g>
         <g class="words c56">
-            <text x="590.9" y="0">Event Driven</text>
-            <text x="590.9" y="24">Hadoop</text>
-            <text x="590.9" y="48">Flask</text>
-            <text x="590.9" y="72">NiFi</text>
-            <text x="590.9" y="96">Superset</text>
-            <text x="590.9" y="120">Windows</text>
-            <text x="590.9" y="144">Kubernetes</text>
-            <text x="590.9" y="168">Bootstrap</text>
-            <text x="590.9" y="192" class="h">Data Pipelines</text>
-            <text x="590.9" y="216">React</text>
-            <text x="590.9" y="240">Spark</text>
-            <text x="590.9" y="264">Metabase</text>
-            <text x="590.9" y="288">GitHub</text>
-            <text x="590.9" y="312">DataHub</text>
-            <text x="590.9" y="336">Microservices</text>
-            <text x="590.9" y="360">Airflow</text>
-            <text x="590.9" y="384">ClickHouse</text>
-            <text x="590.9" y="408" class="h">ETL/ELT</text>
+            <text x="590.9" y="0" style="fill:#4A90D9">EVENT DRIVEN</text>
+            <text x="590.9" y="24" style="fill:#2C8EBB">HADOOP</text>
+            <text x="590.9" y="48" style="fill:#2FA36B">FLASK</text>
+            <text x="590.9" y="72" style="fill:#1572B6">NIFI</text>
+            <text x="590.9" y="96" style="fill:#3C9BEE">SUPERSET</text>
+            <text x="590.9" y="120" style="fill:#E95420">WINDOWS</text>
+            <text x="590.9" y="144" style="fill:#FF9F1C">KUBERNETES</text>
+            <text x="590.9" y="168" style="fill:#3C9BEE">BOOTSTRAP</text>
+            <text x="590.9" y="192" class="h" style="fill:#1572B6">DATA PIPELINES</text>
+            <text x="590.9" y="216" style="fill:#D82C20">REACT</text>
+            <text x="590.9" y="240" style="fill:#509EE3">SPARK</text>
+            <text x="590.9" y="264" style="fill:#1572B6">METABASE</text>
+            <text x="590.9" y="288" style="fill:#FFCC01">GITHUB</text>
+            <text x="590.9" y="312" style="fill:#009688">DATAHUB</text>
+            <text x="590.9" y="336" style="fill:#3776AB">MICROSERVICES</text>
+            <text x="590.9" y="360" style="fill:#2C8EBB">AIRFLOW</text>
+            <text x="590.9" y="384" style="fill:#FFCC01">CLICKHOUSE</text>
+            <text x="590.9" y="408" class="h" style="fill:#03BFB5">ETL/ELT</text>
         </g>
         <g class="words c57">
-            <text x="681.8" y="0">Distributed Systems</text>
-            <text x="681.8" y="24">Ubuntu</text>
-            <text x="681.8" y="48">eMondrian</text>
-            <text x="681.8" y="72">MySQL</text>
-            <text x="681.8" y="96">GitLab</text>
-            <text x="681.8" y="120">macOS</text>
-            <text x="681.8" y="144">Python</text>
-            <text x="681.8" y="168">Podman</text>
-            <text x="681.8" y="192" class="h">MongoDB</text>
-            <text x="681.8" y="216">SQL</text>
-            <text x="681.8" y="240">CSS</text>
-            <text x="681.8" y="264">Redis</text>
-            <text x="681.8" y="288">Greenplum</text>
-            <text x="681.8" y="312">Hive</text>
-            <text x="681.8" y="336">PostgreSQL</text>
-            <text x="681.8" y="360">SQLite</text>
-            <text x="681.8" y="384">Streamlit</text>
-            <text x="681.8" y="408" class="h">Grafana</text>
+            <text x="681.8" y="0" style="fill:#FFCC01">DISTRIBUTED SYSTEMS</text>
+            <text x="681.8" y="24" style="fill:#E95420">UBUNTU</text>
+            <text x="681.8" y="48" style="fill:#2FA36B">EMONDRIAN</text>
+            <text x="681.8" y="72" style="fill:#F7DF1E">MYSQL</text>
+            <text x="681.8" y="96" style="fill:#FC6D26">GITLAB</text>
+            <text x="681.8" y="120" style="fill:#FC6D26">MACOS</text>
+            <text x="681.8" y="144" style="fill:#03BFB5">PYTHON</text>
+            <text x="681.8" y="168" style="fill:#F7DF1E">PODMAN</text>
+            <text x="681.8" y="192" class="h" style="fill:#8B6CFF">MONGODB</text>
+            <text x="681.8" y="216" style="fill:#F2C811">SQL</text>
+            <text x="681.8" y="240" style="fill:#5B8DEF">CSS</text>
+            <text x="681.8" y="264" style="fill:#00A3C4">REDIS</text>
+            <text x="681.8" y="288" style="fill:#2496ED">GREENPLUM</text>
+            <text x="681.8" y="312" style="fill:#4A90D9">HIVE</text>
+            <text x="681.8" y="336" style="fill:#E25A1C">POSTGRESQL</text>
+            <text x="681.8" y="360" style="fill:#9B7BE0">SQLITE</text>
+            <text x="681.8" y="384" style="fill:#F7DF1E">STREAMLIT</text>
+            <text x="681.8" y="408" class="h" style="fill:#2C8EBB">GRAFANA</text>
         </g>
         <g class="words c58">
-            <text x="772.7" y="0">icCube</text>
-            <text x="772.7" y="24">FastAPI</text>
-            <text x="772.7" y="48">Django</text>
-            <text x="772.7" y="72">JavaScript</text>
-            <text x="772.7" y="96">YDB</text>
-            <text x="772.7" y="120">Docker</text>
-            <text x="772.7" y="144">Linux</text>
-            <text x="772.7" y="168">Power BI</text>
-            <text x="772.7" y="192" class="h">Event Driven</text>
-            <text x="772.7" y="216">Hadoop</text>
-            <text x="772.7" y="240">Flask</text>
-            <text x="772.7" y="264">NiFi</text>
-            <text x="772.7" y="288">Superset</text>
-            <text x="772.7" y="312">Windows</text>
-            <text x="772.7" y="336">Kubernetes</text>
-            <text x="772.7" y="360">Bootstrap</text>
-            <text x="772.7" y="384">Data Pipelines</text>
-            <text x="772.7" y="408" class="h">React</text>
+            <text x="772.7" y="0" style="fill:#3776AB">ICCUBE</text>
+            <text x="772.7" y="24" style="fill:#1572B6">FASTAPI</text>
+            <text x="772.7" y="48" style="fill:#2FA36B">DJANGO</text>
+            <text x="772.7" y="72" style="fill:#FC6D26">JAVASCRIPT</text>
+            <text x="772.7" y="96" style="fill:#2496ED">YDB</text>
+            <text x="772.7" y="120" style="fill:#F7DF1E">DOCKER</text>
+            <text x="772.7" y="144" style="fill:#61DAFB">LINUX</text>
+            <text x="772.7" y="168" style="fill:#FFCC01">POWER BI</text>
+            <text x="772.7" y="192" class="h" style="fill:#2C8EBB">EVENT DRIVEN</text>
+            <text x="772.7" y="216" style="fill:#FC6D26">HADOOP</text>
+            <text x="772.7" y="240" style="fill:#4A90D9">FLASK</text>
+            <text x="772.7" y="264" style="fill:#009688">NIFI</text>
+            <text x="772.7" y="288" style="fill:#F2C811">SUPERSET</text>
+            <text x="772.7" y="312" style="fill:#F7DF1E">WINDOWS</text>
+            <text x="772.7" y="336" style="fill:#E95420">KUBERNETES</text>
+            <text x="772.7" y="360" style="fill:#00A3C4">BOOTSTRAP</text>
+            <text x="772.7" y="384" style="fill:#00A3C4">DATA PIPELINES</text>
+            <text x="772.7" y="408" class="h" style="fill:#D82C20">REACT</text>
         </g>
         <g class="words c59">
-            <text x="863.6" y="0">Spark</text>
-            <text x="863.6" y="24">Metabase</text>
-            <text x="863.6" y="48">GitHub</text>
-            <text x="863.6" y="72">DataHub</text>
-            <text x="863.6" y="96">Microservices</text>
-            <text x="863.6" y="120">Airflow</text>
-            <text x="863.6" y="144">ClickHouse</text>
-            <text x="863.6" y="168">ETL/ELT</text>
-            <text x="863.6" y="192" class="h">Distributed Systems</text>
-            <text x="863.6" y="216">Ubuntu</text>
-            <text x="863.6" y="240">eMondrian</text>
-            <text x="863.6" y="264">MySQL</text>
-            <text x="863.6" y="288">GitLab</text>
-            <text x="863.6" y="312">macOS</text>
-            <text x="863.6" y="336">Python</text>
-            <text x="863.6" y="360">Podman</text>
-            <text x="863.6" y="384">MongoDB</text>
-            <text x="863.6" y="408" class="h">SQL</text>
+            <text x="863.6" y="0" style="fill:#009688">SPARK</text>
+            <text x="863.6" y="24" style="fill:#E95420">METABASE</text>
+            <text x="863.6" y="48" style="fill:#8B6CFF">GITHUB</text>
+            <text x="863.6" y="72" style="fill:#8B6CFF">DATAHUB</text>
+            <text x="863.6" y="96" style="fill:#13AA52">MICROSERVICES</text>
+            <text x="863.6" y="120" style="fill:#E95420">AIRFLOW</text>
+            <text x="863.6" y="144" style="fill:#E25A1C">CLICKHOUSE</text>
+            <text x="863.6" y="168" style="fill:#8B6CFF">ETL/ELT</text>
+            <text x="863.6" y="192" class="h" style="fill:#FF9F1C">DISTRIBUTED SYSTEMS</text>
+            <text x="863.6" y="216" style="fill:#E95420">UBUNTU</text>
+            <text x="863.6" y="240" style="fill:#FC6D26">EMONDRIAN</text>
+            <text x="863.6" y="264" style="fill:#4CAF50">MYSQL</text>
+            <text x="863.6" y="288" style="fill:#2496ED">GITLAB</text>
+            <text x="863.6" y="312" style="fill:#2FA36B">MACOS</text>
+            <text x="863.6" y="336" style="fill:#FC6D26">PYTHON</text>
+            <text x="863.6" y="360" style="fill:#509EE3">PODMAN</text>
+            <text x="863.6" y="384" style="fill:#E25A1C">MONGODB</text>
+            <text x="863.6" y="408" class="h" style="fill:#4A90D9">SQL</text>
         </g>
         <g class="words c60">
-            <text x="954.5" y="0">CSS</text>
-            <text x="954.5" y="24">Redis</text>
-            <text x="954.5" y="48">Greenplum</text>
-            <text x="954.5" y="72">Hive</text>
-            <text x="954.5" y="96">PostgreSQL</text>
-            <text x="954.5" y="120">SQLite</text>
-            <text x="954.5" y="144">Streamlit</text>
-            <text x="954.5" y="168">Grafana</text>
-            <text x="954.5" y="192" class="h">icCube</text>
-            <text x="954.5" y="216">FastAPI</text>
-            <text x="954.5" y="240">Django</text>
-            <text x="954.5" y="264">JavaScript</text>
-            <text x="954.5" y="288">YDB</text>
-            <text x="954.5" y="312">Docker</text>
-            <text x="954.5" y="336">Linux</text>
-            <text x="954.5" y="360">Power BI</text>
-            <text x="954.5" y="384">Event Driven</text>
-            <text x="954.5" y="408" class="h">Hadoop</text>
+            <text x="954.5" y="0" style="fill:#FFCC01">CSS</text>
+            <text x="954.5" y="24" style="fill:#FF9F1C">REDIS</text>
+            <text x="954.5" y="48" style="fill:#F46800">GREENPLUM</text>
+            <text x="954.5" y="72" style="fill:#F2C811">HIVE</text>
+            <text x="954.5" y="96" style="fill:#9B7BE0">POSTGRESQL</text>
+            <text x="954.5" y="120" style="fill:#2C8EBB">SQLITE</text>
+            <text x="954.5" y="144" style="fill:#FFCC01">STREAMLIT</text>
+            <text x="954.5" y="168" style="fill:#4A90D9">GRAFANA</text>
+            <text x="954.5" y="192" class="h" style="fill:#E25A1C">ICCUBE</text>
+            <text x="954.5" y="216" style="fill:#2C8EBB">FASTAPI</text>
+            <text x="954.5" y="240" style="fill:#2496ED">DJANGO</text>
+            <text x="954.5" y="264" style="fill:#00A3C4">JAVASCRIPT</text>
+            <text x="954.5" y="288" style="fill:#3776AB">YDB</text>
+            <text x="954.5" y="312" style="fill:#509EE3">DOCKER</text>
+            <text x="954.5" y="336" style="fill:#FFCC01">LINUX</text>
+            <text x="954.5" y="360" style="fill:#5B8DEF">POWER BI</text>
+            <text x="954.5" y="384" style="fill:#00A3C4">EVENT DRIVEN</text>
+            <text x="954.5" y="408" class="h" style="fill:#3776AB">HADOOP</text>
         </g>
     </g>
     <rect width="100%" height="100%" fill="url(#fade)"/>
