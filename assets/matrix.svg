@@ -2580,7 +2580,7 @@
         <g class="words c52">
             <text x="227.3" y="0" style="fill:#4CAF50">CLICKHOUSE</text>
             <text x="227.3" y="24" style="fill:#03BFB5">ETL/ELT</text>
-            <text x="227.3" y="48" style="fill:#1572B6">DISTRIBUTED SYSTEMS</text>
+            <text x="227.3" y="48" style="fill:#1572B6">DISTRIBUTED</text>
             <text x="227.3" y="72" style="fill:#FF4B4B">UBUNTU</text>
             <text x="227.3" y="96" style="fill:#03BFB5">EMONDRIAN</text>
             <text x="227.3" y="120" style="fill:#5B8DEF">MYSQL</text>
@@ -2628,7 +2628,7 @@
             <text x="409.1" y="168" style="fill:#5B8DEF">AIRFLOW</text>
             <text x="409.1" y="192" class="h" style="fill:#D82C20">CLICKHOUSE</text>
             <text x="409.1" y="216" style="fill:#2496ED">ETL/ELT</text>
-            <text x="409.1" y="240" style="fill:#5B8DEF">DISTRIBUTED SYSTEMS</text>
+            <text x="409.1" y="240" style="fill:#5B8DEF">DISTRIBUTED</text>
             <text x="409.1" y="264" style="fill:#FFCC01">UBUNTU</text>
             <text x="409.1" y="288" style="fill:#5B8DEF">EMONDRIAN</text>
             <text x="409.1" y="312" style="fill:#9B7BE0">MYSQL</text>
@@ -2678,7 +2678,7 @@
             <text x="590.9" y="408" class="h" style="fill:#03BFB5">ETL/ELT</text>
         </g>
         <g class="words c57">
-            <text x="681.8" y="0" style="fill:#FFCC01">DISTRIBUTED SYSTEMS</text>
+            <text x="681.8" y="0" style="fill:#FFCC01">DISTRIBUTED</text>
             <text x="681.8" y="24" style="fill:#E95420">UBUNTU</text>
             <text x="681.8" y="48" style="fill:#2FA36B">EMONDRIAN</text>
             <text x="681.8" y="72" style="fill:#F7DF1E">MYSQL</text>
@@ -2726,7 +2726,7 @@
             <text x="863.6" y="120" style="fill:#E95420">AIRFLOW</text>
             <text x="863.6" y="144" style="fill:#E25A1C">CLICKHOUSE</text>
             <text x="863.6" y="168" style="fill:#8B6CFF">ETL/ELT</text>
-            <text x="863.6" y="192" class="h" style="fill:#FF9F1C">DISTRIBUTED SYSTEMS</text>
+            <text x="863.6" y="192" class="h" style="fill:#FF9F1C">DISTRIBUTED</text>
             <text x="863.6" y="216" style="fill:#E95420">UBUNTU</text>
             <text x="863.6" y="240" style="fill:#FC6D26">EMONDRIAN</text>
             <text x="863.6" y="264" style="fill:#4CAF50">MYSQL</text>
